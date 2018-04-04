@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ricardo/Documents/clion-workspace/WordGames/main.cpp
+iostream
+-
+vector
+-
+string
+-
+stdlib.h
+-
+time.h
+-
+
