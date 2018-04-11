@@ -1,3 +1,0 @@
-/Users/ricardo/Documents/clion-workspace/WordGames/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ricardo/Documents/clion-workspace/WordGames/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ricardo/Documents/clion-workspace/WordGames/cmake-build-debug/CMakeFiles/Projecto.dir
